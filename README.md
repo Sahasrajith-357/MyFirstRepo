@@ -1,4 +1,4 @@
 # MyFirstRepo
 nothing much here
 <br>
-Prolly I'll start uploaduing a lot here starting from today
+Prolly I'll start uploading a lot here starting from today
